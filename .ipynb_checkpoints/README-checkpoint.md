@@ -6,6 +6,15 @@ Clone this repo in your terminal by using the following command:
 
 git clone https://github.com/MohTahsin/Prompting-Workshop-Bedrock.git
 
+# Authors 
+Mohammad Tahsin
+
+Brian McCarthy 
+
+Autrin Abdi 
+
+Ayman Kazmi 
+
 
 
 
